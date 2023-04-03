@@ -1,0 +1,25 @@
+{
+  "testapiimageApp": {
+    "demande": {
+      "home": {
+        "title": "Demandes",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Demande",
+        "createOrEditLabel": "Créer ou éditer un Demande",
+        "notFound": "Aucun Demande trouvé"
+      },
+      "created": "Un nouveau Demande a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Demande avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Demande avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Demande {{ id }} ?"
+      },
+      "detail": {
+        "title": "Demande"
+      },
+      "id": "ID",
+      "image": "Image",
+      "photo": "Photo"
+    }
+  }
+}

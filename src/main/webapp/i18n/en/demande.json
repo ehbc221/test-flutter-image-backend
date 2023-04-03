@@ -1,0 +1,25 @@
+{
+  "testapiimageApp": {
+    "demande": {
+      "home": {
+        "title": "Demandes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Demande",
+        "createOrEditLabel": "Create or edit a Demande",
+        "notFound": "No Demandes found"
+      },
+      "created": "A new Demande is created with identifier {{ param }}",
+      "updated": "A Demande is updated with identifier {{ param }}",
+      "deleted": "A Demande is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Demande {{ id }}?"
+      },
+      "detail": {
+        "title": "Demande"
+      },
+      "id": "ID",
+      "image": "Image",
+      "photo": "Photo"
+    }
+  }
+}
